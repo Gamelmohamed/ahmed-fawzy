@@ -94,7 +94,7 @@ body{
     padding: 5px;
 }
 
-.fa-facebook, .fa-linkedin{
+.fa-facebook, .fa-linkedin {
     color: blue;
 }
 
@@ -112,4 +112,10 @@ body{
     margin: 2px;
     font-weight: 600;
     letter-spacing: 1px;
+}
+
+.fa-facebook-messenger{
+    /* background-color: blue; */
+    font-size: 30px;
+    color: blue;
 }
